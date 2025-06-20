@@ -2,3 +2,9 @@ enable:
   maskingCardNumber: true
 
 author: "{cipher}15273699b4034c6a7699a36dec8abdfae00ede6a6c241af426e0baf5dc746b8d"
+
+card:
+ lock:
+   enable: true
+  unlock:
+    enable: true
