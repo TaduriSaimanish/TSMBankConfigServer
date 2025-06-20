@@ -7,4 +7,4 @@ card:
  lock:
    enable: true
  unlock:
-   enable: false
+   enable: true
